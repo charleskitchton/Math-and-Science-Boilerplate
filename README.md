@@ -1,2 +1,2 @@
 # Math-and-Science-Boilerplate
-Boilerlate to format math and science sites
+Boilerplate to format math and science sites. This boilerplate will use MathML in conjunction with MathJax.
